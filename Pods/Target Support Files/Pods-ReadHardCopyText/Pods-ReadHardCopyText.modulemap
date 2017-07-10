@@ -1,0 +1,6 @@
+framework module Pods_ReadHardCopyText {
+  umbrella header "Pods-ReadHardCopyText-umbrella.h"
+
+  export *
+  module * { export * }
+}
